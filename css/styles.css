@@ -1,0 +1,23 @@
+.panel-default{
+  margin: 20px;
+  width: 20%;
+  float:left;
+  border: solid 1px;
+  padding: 25px;
+  text-align: center;
+  background-color: green;
+
+}
+.panel-body{
+  display: none;
+}
+body{
+  background-color: powderblue;
+}
+.jumbotron{
+  text-align: center;
+}
+.panel-title:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}
